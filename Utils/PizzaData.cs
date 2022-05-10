@@ -17,7 +17,7 @@ namespace PizzeriaWebApp.Utils
 
                 return PizzaData.pizzas;
 
-            }
+            } 
 
             List<Pizza> nuovaPizzas = new List<Pizza>();
 
